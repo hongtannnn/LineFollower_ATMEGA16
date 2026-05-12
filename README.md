@@ -45,6 +45,3 @@ The general schematic for the main board:
 2. **Calibration:** Place the robot on a track with a distinct line (e.g., black line on a white background). Use the Bluetooth module to connect with a mobile app or serial terminal to adjust the PID parameters.
 
 ## 🎥 Demonstration
-
-## 📝 License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
