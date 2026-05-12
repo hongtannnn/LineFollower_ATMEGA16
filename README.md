@@ -22,11 +22,11 @@ The general schematic for the main board:
 ![Schematics](schematics.jpg)
 
 ### PCB Layout
-**Top Layer Routing:**
-![Top Layer PCB](PCB1.jpg)
+**PCB1 Layer Routing:**
+![PCB1 Layer PCB](PCB1.jpg)
 
-**Bottom Layer Routing:**
-![Bottom Layer PCB](PCB2.jpg)
+**PCB2 Layer Routing:**
+![PCB2 Layer PCB](PCB2.jpg)
 
 ### 3D Renders
 **Top View:**
